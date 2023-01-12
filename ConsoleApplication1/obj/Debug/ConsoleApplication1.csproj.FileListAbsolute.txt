@@ -1,0 +1,6 @@
+/Users/viraj/RiderProjects/EncryptionStuff/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/viraj/RiderProjects/EncryptionStuff/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/viraj/RiderProjects/EncryptionStuff/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/Users/viraj/RiderProjects/EncryptionStuff/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/viraj/RiderProjects/EncryptionStuff/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/viraj/RiderProjects/EncryptionStuff/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
